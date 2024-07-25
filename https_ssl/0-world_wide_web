@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Function to query DNS records
 query_dns() {
     local domain=$1
